@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">1. Greatest Android course?</string>
+    <string name="question2">2. Is Android best mobile system?</string>
+    <string name="question3">3. Was Android first released in 2008?</string>
+    <string name="question4">4. Mark names of Android releases</string>
+    <string name="check">check</string>
+    <string name="hint">write your answer here</string>
+</resources>
